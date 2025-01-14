@@ -1,1 +1,3 @@
-hla a todos y bievenido a git y Github :)
+hola a todos y bievenido a git y Github :)
+
+espero que aprendan muy bien a usar Git y lo apliquen a este ciclo y sus futuros trabajos como developers
